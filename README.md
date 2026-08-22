@@ -6,28 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 16 |
+| 88 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (18)
-- [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (16)
-- [data structures](#data-structures) (1)
-- [dp](#dp) (4)
+- [binary search](#binary-search) (4)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (20)
+- [combinatorics](#combinatorics) (2)
+- [constructive algorithms](#constructive-algorithms) (18)
+- [data structures](#data-structures) (2)
+- [dp](#dp) (5)
 - [games](#games) (3)
-- [geometry](#geometry) (2)
-- [greedy](#greedy) (33)
-- [implementation](#implementation) (19)
-- [math](#math) (29)
-- [number theory](#number-theory) (4)
-- [sortings](#sortings) (8)
-- [strings](#strings) (7)
+- [geometry](#geometry) (4)
+- [greedy](#greedy) (40)
+- [implementation](#implementation) (22)
+- [math](#math) (36)
+- [number theory](#number-theory) (8)
+- [sortings](#sortings) (11)
+- [strings](#strings) (9)
 
 ---
 
@@ -44,12 +44,14 @@
 | 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2051/B%20-%20Journey/solution.java) |
 | 2086B | [Large Array and Segments](https://codeforces.com/contest/2086/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2086/B%20-%20Large%20Array%20and%20Segments/solution.java) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
+| 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/D%20-%20Retaliation/solution.java) |
 
 ### bitmasks
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2109B | [Slice to Survive](https://codeforces.com/contest/2109/problem/B) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/B%20-%20Slice%20to%20Survive/solution.java) |
+| 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 
 ### brute force
 
@@ -73,12 +75,15 @@
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.java) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.java) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
+| 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/A%20-%20Letter%20Home/solution.java) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
 
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.java) |
+| 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 
 ### constructive algorithms
 
@@ -100,12 +105,15 @@
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.java) |
 | 2102A | [Dinner Time](https://codeforces.com/contest/2102/problem/A) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/A%20-%20Dinner%20Time/solution.java) |
 | 2117B | [Shrink](https://codeforces.com/contest/2117/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/B%20-%20Shrink/solution.java) |
+| 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.java) |
+| 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.java) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 
 ### dp
 
@@ -115,6 +123,7 @@
 | 2090B | [Pushing Balls](https://codeforces.com/contest/2090/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2090/B%20-%20Pushing%20Balls/solution.java) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/B%20-%20Team%20Training/solution.java) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.java) |
+| 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.java) |
 
 ### games
 
@@ -130,6 +139,8 @@
 |---|---------|------------|----------|
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.java) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.java) |
+| 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.java) |
+| 2120B | [Square Pool](https://codeforces.com/contest/2120/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2120/B%20-%20Square%20Pool/solution.java) |
 
 ### greedy
 
@@ -163,11 +174,18 @@
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.java) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.java) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.java) |
+| 2103B | [Binary Typewriter](https://codeforces.com/contest/2103/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/B%20-%20Binary%20Typewriter/solution.java) |
+| 2107A | [LRC and VIP](https://codeforces.com/contest/2107/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2107/A%20-%20LRC%20and%20VIP/solution.java) |
 | 2109B | [Slice to Survive](https://codeforces.com/contest/2109/problem/B) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/B%20-%20Slice%20to%20Survive/solution.java) |
 | 2114B | [Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/B%20-%20Not%20Quite%20a%20Palindromic%20String/solution.java) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.java) |
 | 2116A | [Gellyfish and Tricolor Pansy](https://codeforces.com/contest/2116/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2116/A%20-%20Gellyfish%20and%20Tricolor%20Pansy/solution.java) |
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/A%20-%20False%20Alarm/solution.java) |
+| 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.java) |
+| 2121C | [Those Who Are With Us](https://codeforces.com/contest/2121/problem/C) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/C%20-%20Those%20Who%20Are%20With%20Us/solution.java) |
+| 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.java) |
+| 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 
 ### implementation
 
@@ -191,6 +209,9 @@
 | 2109A | [It's Time To Duel](https://codeforces.com/contest/2109/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/A%20-%20It's%20Time%20To%20Duel/solution.java) |
 | 2110A | [Fashionable Array](https://codeforces.com/contest/2110/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2110/A%20-%20Fashionable%20Array/solution.java) |
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/A%20-%20False%20Alarm/solution.java) |
+| 2121C | [Those Who Are With Us](https://codeforces.com/contest/2121/problem/C) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/C%20-%20Those%20Who%20Are%20With%20Us/solution.java) |
+| 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.java) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
 | 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 
 ### math
@@ -223,9 +244,16 @@
 | 2094C | [Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/C%20-%20Brr%20Brrr%20Patapim/solution.java) |
 | 2102A | [Dinner Time](https://codeforces.com/contest/2102/problem/A) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/A%20-%20Dinner%20Time/solution.java) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.java) |
+| 2103B | [Binary Typewriter](https://codeforces.com/contest/2103/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/B%20-%20Binary%20Typewriter/solution.java) |
 | 2109B | [Slice to Survive](https://codeforces.com/contest/2109/problem/B) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/B%20-%20Slice%20to%20Survive/solution.java) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
 | 2114B | [Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/B%20-%20Not%20Quite%20a%20Palindromic%20String/solution.java) |
+| 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/D%20-%20Retaliation/solution.java) |
+| 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.java) |
+| 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/A%20-%20Letter%20Home/solution.java) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.java) |
+| 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
 
 ### number theory
 
@@ -235,6 +263,10 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.java) |
 | 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.java) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.java) |
+| 2107A | [LRC and VIP](https://codeforces.com/contest/2107/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2107/A%20-%20LRC%20and%20VIP/solution.java) |
+| 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/D%20-%20Retaliation/solution.java) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.java) |
+| 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 
 ### sortings
 
@@ -248,6 +280,9 @@
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/B%20-%20Team%20Training/solution.java) |
 | 2102B | [The Picky Cat](https://codeforces.com/contest/2102/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/B%20-%20The%20Picky%20Cat/solution.java) |
 | 2110A | [Fashionable Array](https://codeforces.com/contest/2110/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2110/A%20-%20Fashionable%20Array/solution.java) |
+| 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.java) |
+| 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 
 ### strings
 
@@ -260,6 +295,8 @@
 | 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.java) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.java) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.java) |
+| 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.java) |
+| 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.java) |
 
 ---
 
