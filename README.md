@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 379 | 29 |
+| 380 | 29 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (38)
 - [bitmasks](#bitmasks) (21)
 - [brute force](#brute-force) (72)
@@ -58,6 +58,7 @@
 | 2139C | [Cake Assignment](https://codeforces.com/contest/2139/problem/C) | Unrated | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2139/C%20-%20Cake%20Assignment/solution.java) |
 | 2166C | [Cyclic Merging](https://codeforces.com/contest/2166/problem/C) | Unrated | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/C%20-%20Cyclic%20Merging/solution.java) |
 | 2197C | [Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | Unrated | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/C%20-%20Game%20with%20a%20Fraction/solution.java) |
+| 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 
 ### binary search
 
