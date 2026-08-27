@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 382 | 29 |
+| 383 | 29 |
 
 ---
 
@@ -20,26 +20,26 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (76)
-- [data structures](#data-structures) (34)
+- [data structures](#data-structures) (35)
 - [dfs and similar](#dfs-and-similar) (9)
-- [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (45)
+- [divide and conquer](#divide-and-conquer) (2)
+- [dp](#dp) (46)
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (15)
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (199)
+- [greedy](#greedy) (200)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (98)
+- [implementation](#implementation) (99)
 - [math](#math) (170)
 - [number theory](#number-theory) (39)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (71)
 - [strings](#strings) (28)
-- [trees](#trees) (9)
+- [trees](#trees) (10)
 - [two pointers](#two-pointers) (30)
 
 ---
@@ -348,6 +348,7 @@
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2148/E%20-%20Split/solution.java) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 
@@ -370,6 +371,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 
 ### dp
 
@@ -414,6 +416,7 @@
 | 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2169/C%20-%20Range%20Operation/solution.java) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.java) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.java) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
@@ -671,6 +674,7 @@
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.java) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/B%20-%20Offshores/solution.java) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/B%20-%20Cyclists/solution.java) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.java) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
@@ -790,6 +794,7 @@
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.java) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/B%20-%20Cyclists/solution.java) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.java) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.java) |
@@ -1158,6 +1163,7 @@
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 | 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
+| 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2218F | [The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/F%20-%20The%2067th%20Tree%20Problem/solution.java) |
 
 ### two pointers
