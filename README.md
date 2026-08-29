@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 385 | 29 |
+| 386 | 29 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (38)
 - [bitmasks](#bitmasks) (21)
-- [brute force](#brute-force) (73)
+- [brute force](#brute-force) (74)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (76)
@@ -38,7 +38,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (73)
-- [strings](#strings) (28)
+- [strings](#strings) (29)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (30)
 
@@ -197,6 +197,7 @@
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/A%20-%20Same%20Difference/solution.java) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.java) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.java) |
+| 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.cpp) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.cpp) |
@@ -1152,6 +1153,7 @@
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2132/A%20-%20Homework/solution.java) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/A%20-%20Same%20Difference/solution.java) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
+| 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
