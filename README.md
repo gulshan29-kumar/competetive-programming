@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 386 | 29 |
+| 387 | 29 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (74)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (13)
-- [constructive algorithms](#constructive-algorithms) (76)
+- [constructive algorithms](#constructive-algorithms) (77)
 - [data structures](#data-structures) (35)
 - [dfs and similar](#dfs-and-similar) (9)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -38,7 +38,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (73)
-- [strings](#strings) (29)
+- [strings](#strings) (30)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (30)
 
@@ -302,6 +302,7 @@
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.java) |
 | 2189C1 | [XOR Convenience (Easy Version)](https://codeforces.com/contest/2189/problem/C1) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/C1%20-%20XOR%20Convenience%20(Easy%20Version)/solution.java) |
+| 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.cpp) |
 | 2208A | [Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/A%20-%20Bingo%20Candies/solution.java) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.java) |
@@ -1154,6 +1155,7 @@
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/A%20-%20Same%20Difference/solution.java) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.cpp) |
+| 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
