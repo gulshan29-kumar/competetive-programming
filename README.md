@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 391 | 29 |
+| 392 | 29 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [greedy](#greedy) (204)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (99)
-- [math](#math) (174)
+- [math](#math) (175)
 - [number theory](#number-theory) (39)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -852,6 +852,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/C%20-%20Line%20Empire/solution.java) |
 | 1660A | [Vasya and Coins](https://codeforces.com/contest/1660/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1660/A%20-%20Vasya%20and%20Coins/solution.cpp) |
+| 1660B | [Vlad and Candies](https://codeforces.com/contest/1660/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1660/B%20-%20Vlad%20and%20Candies/solution.cpp) |
 | 1669H | [Maximal AND](https://codeforces.com/contest/1669/problem/H) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1669/H%20-%20Maximal%20AND/solution.java) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.java) |
