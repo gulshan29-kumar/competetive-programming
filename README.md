@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 392 | 29 |
+| 393 | 29 |
 
 ---
 
@@ -14,26 +14,26 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (39)
+- [binary search](#binary-search) (40)
 - [bitmasks](#bitmasks) (21)
 - [brute force](#brute-force) (75)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (13)
 - [constructive algorithms](#constructive-algorithms) (77)
 - [data structures](#data-structures) (35)
-- [dfs and similar](#dfs-and-similar) (9)
+- [dfs and similar](#dfs-and-similar) (10)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (46)
+- [dp](#dp) (47)
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (15)
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (5)
+- [graphs](#graphs) (6)
 - [greedy](#greedy) (204)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (99)
-- [math](#math) (175)
+- [math](#math) (176)
 - [number theory](#number-theory) (39)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -98,6 +98,7 @@
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2117/D%20-%20Retaliation/solution.java) |
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2148/E%20-%20Split/solution.java) |
+| 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.java) |
@@ -368,6 +369,7 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
+| 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 
 ### divide and conquer
@@ -418,6 +420,7 @@
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.java) |
 | 2158C | [Annoying Game](https://codeforces.com/contest/2158/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/C%20-%20Annoying%20Game/solution.java) |
 | 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2169/C%20-%20Range%20Operation/solution.java) |
+| 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 | 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
@@ -494,6 +497,7 @@
 | 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1167/C%20-%20News%20Distribution/solution.java) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.java) |
+| 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 
 ### greedy
 
@@ -964,6 +968,7 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.java) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.java) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+| 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.java) |
