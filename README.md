@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 396 | 29 |
+| 397 | 29 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (40)
-- [bitmasks](#bitmasks) (21)
+- [bitmasks](#bitmasks) (22)
 - [brute force](#brute-force) (77)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (14)
-- [constructive algorithms](#constructive-algorithms) (78)
+- [constructive algorithms](#constructive-algorithms) (79)
 - [data structures](#data-structures) (35)
 - [dfs and similar](#dfs-and-similar) (10)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (205)
+- [greedy](#greedy) (206)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (99)
 - [math](#math) (177)
@@ -124,6 +124,7 @@
 | 1988C | [Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1988/C%20-%20Increasing%20Sequence%20with%20Fixed%20OR/solution.java) |
 | 2109B | [Slice to Survive](https://codeforces.com/contest/2109/problem/B) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/B%20-%20Slice%20to%20Survive/solution.java) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
+| 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.java) |
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.java) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
@@ -306,6 +307,7 @@
 | 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/A%20-%20Suspension/solution.java) |
 | 2158B | [Split](https://codeforces.com/contest/2158/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/B%20-%20Split/solution.java) |
 | 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.java) |
 | 2189C1 | [XOR Convenience (Easy Version)](https://codeforces.com/contest/2189/problem/C1) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/C1%20-%20XOR%20Convenience%20(Easy%20Version)/solution.java) |
@@ -672,6 +674,7 @@
 | 2158B | [Split](https://codeforces.com/contest/2158/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/B%20-%20Split/solution.java) |
 | 2158C | [Annoying Game](https://codeforces.com/contest/2158/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/C%20-%20Annoying%20Game/solution.java) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.java) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/A%20-%20Same%20Difference/solution.java) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.java) |
