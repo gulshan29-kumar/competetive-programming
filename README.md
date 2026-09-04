@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 401 | 29 |
+| 402 | 29 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (41)
+- [binary search](#binary-search) (42)
 - [bitmasks](#bitmasks) (22)
-- [brute force](#brute-force) (77)
+- [brute force](#brute-force) (78)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (14)
-- [constructive algorithms](#constructive-algorithms) (80)
-- [data structures](#data-structures) (36)
+- [constructive algorithms](#constructive-algorithms) (81)
+- [data structures](#data-structures) (37)
 - [dfs and similar](#dfs-and-similar) (10)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (49)
@@ -30,9 +30,9 @@
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (208)
+- [greedy](#greedy) (209)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (100)
+- [implementation](#implementation) (101)
 - [math](#math) (179)
 - [number theory](#number-theory) (39)
 - [schedules](#schedules) (2)
@@ -40,7 +40,7 @@
 - [sortings](#sortings) (73)
 - [strings](#strings) (30)
 - [trees](#trees) (10)
-- [two pointers](#two-pointers) (30)
+- [two pointers](#two-pointers) (31)
 
 ---
 
@@ -102,6 +102,7 @@
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.java) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2227E | [It All Went Sideways](https://codeforces.com/contest/2227/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/E%20-%20It%20All%20Went%20Sideways/solution.cpp) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
@@ -210,6 +211,7 @@
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2208/B%20-%20Cyclists/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.java) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
@@ -320,6 +322,7 @@
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.java) |
 | 2218F | [The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/F%20-%20The%2067th%20Tree%20Problem/solution.java) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
@@ -363,6 +366,7 @@
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
 | 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2227E | [It All Went Sideways](https://codeforces.com/contest/2227/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/E%20-%20It%20All%20Went%20Sideways/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 
@@ -710,6 +714,7 @@
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.java) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2227E | [It All Went Sideways](https://codeforces.com/contest/2227/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/E%20-%20It%20All%20Went%20Sideways/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
@@ -828,6 +833,7 @@
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2218F | [The 67th Tree Problem](https://codeforces.com/contest/2218/problem/F) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/F%20-%20The%2067th%20Tree%20Problem/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
@@ -1240,6 +1246,7 @@
 | 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2169/C%20-%20Range%20Operation/solution.java) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.java) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ---
