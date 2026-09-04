@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 402 | 29 |
+| 403 | 29 |
 
 ---
 
@@ -33,11 +33,11 @@
 - [greedy](#greedy) (209)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (101)
-- [math](#math) (179)
+- [math](#math) (180)
 - [number theory](#number-theory) (39)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (73)
+- [sortings](#sortings) (74)
 - [strings](#strings) (30)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (31)
@@ -984,6 +984,7 @@
 | 2158B | [Split](https://codeforces.com/contest/2158/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2158/B%20-%20Split/solution.java) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.java) |
 | 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.java) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2169/C%20-%20Range%20Operation/solution.java) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.java) |
 | 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.java) |
@@ -1149,6 +1150,7 @@
 | 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.java) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.java) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.java) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.java) |
