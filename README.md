@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 413 | 29 |
+| 414 | 29 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (43)
-- [bitmasks](#bitmasks) (22)
+- [bitmasks](#bitmasks) (23)
 - [brute force](#brute-force) (80)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (14)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (215)
+- [greedy](#greedy) (216)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (104)
 - [math](#math) (185)
@@ -134,6 +134,7 @@
 | 2189C1 | [XOR Convenience (Easy Version)](https://codeforces.com/contest/2189/problem/C1) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2189/C1%20-%20XOR%20Convenience%20(Easy%20Version)/solution.java) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.java) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### brute force
 
@@ -736,6 +737,7 @@
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.java) |
