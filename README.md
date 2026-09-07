@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 418 | 29 |
+| 419 | 29 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (81)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (14)
-- [constructive algorithms](#constructive-algorithms) (86)
+- [constructive algorithms](#constructive-algorithms) (87)
 - [data structures](#data-structures) (38)
 - [dfs and similar](#dfs-and-similar) (10)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (218)
+- [greedy](#greedy) (219)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (104)
 - [math](#math) (187)
@@ -338,6 +338,7 @@
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/C%20-%20101/solution.cpp) |
+| 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 
 ### data structures
 
@@ -752,6 +753,7 @@
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/C%20-%20101/solution.cpp) |
+| 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 
 ### hashing
 
