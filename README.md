@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 422 | 30 |
+| 423 | 30 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (221)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (104)
+- [implementation](#implementation) (105)
 - [math](#math) (188)
 - [number theory](#number-theory) (42)
 - [schedules](#schedules) (2)
@@ -882,6 +882,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
