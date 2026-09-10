@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 423 | 30 |
+| 424 | 30 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (44)
-- [bitmasks](#bitmasks) (23)
+- [bitmasks](#bitmasks) (24)
 - [brute force](#brute-force) (81)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (15)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (221)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (105)
-- [math](#math) (188)
+- [math](#math) (189)
 - [number theory](#number-theory) (42)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -143,6 +143,7 @@
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.java) |
 | 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### brute force
 
@@ -1076,6 +1077,7 @@
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### number theory
 
