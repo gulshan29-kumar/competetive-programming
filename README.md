@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 425 | 30 |
+| 426 | 30 |
 
 ---
 
@@ -15,16 +15,16 @@
 - [*special](#special) (1)
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (44)
+- [binary search](#binary-search) (45)
 - [bitmasks](#bitmasks) (25)
-- [brute force](#brute-force) (81)
+- [brute force](#brute-force) (82)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (15)
-- [constructive algorithms](#constructive-algorithms) (88)
+- [constructive algorithms](#constructive-algorithms) (89)
 - [data structures](#data-structures) (38)
-- [dfs and similar](#dfs-and-similar) (10)
+- [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (51)
+- [dp](#dp) (52)
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (16)
@@ -115,6 +115,7 @@
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### bitmasks
 
@@ -231,6 +232,7 @@
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### chinese remainder theorem
 
@@ -350,6 +352,7 @@
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 | 2259E | [Treasure Map Destruction (Constructive Version)](https://codeforces.com/contest/2259/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/E%20-%20Treasure%20Map%20Destruction%20(Constructive%20Version)/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### data structures
 
@@ -408,6 +411,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### divide and conquer
 
@@ -471,6 +475,7 @@
 | 2246C | [0mar and Alternating Sums](https://codeforces.com/contest/2246/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2246/C%20-%200mar%20and%20Alternating%20Sums/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.java) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### dsu
 
