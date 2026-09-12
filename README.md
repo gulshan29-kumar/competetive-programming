@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 430 | 30 |
+| 431 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (226)
+- [greedy](#greedy) (227)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (105)
 - [math](#math) (190)
@@ -740,6 +740,7 @@
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.java) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/B%20-%20Offshores/solution.java) |
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 | 2205C | [Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/C%20-%20Simons%20and%20Posting%20Blogs/solution.cpp) |
 | 2205D | [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2205/D%20-%20Simons%20and%20Beating%20Peaks/solution.cpp) |
