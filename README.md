@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 438 | 30 |
+| 439 | 30 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (46)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (86)
+- [brute force](#brute-force) (87)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (15)
 - [constructive algorithms](#constructive-algorithms) (89)
@@ -34,8 +34,8 @@
 - [greedy](#greedy) (232)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (105)
-- [math](#math) (194)
-- [number theory](#number-theory) (44)
+- [math](#math) (195)
+- [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (80)
@@ -221,6 +221,7 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2170A | [Maximum Neighborhood](https://codeforces.com/contest/2170/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2170/A%20-%20Maximum%20Neighborhood/solution.java) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.java) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.cpp) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
@@ -1064,6 +1065,7 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.java) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.java) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.cpp) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2184D | [Unfair Game](https://codeforces.com/contest/2184/problem/D) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/D%20-%20Unfair%20Game/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
@@ -1148,6 +1150,7 @@
 | 2140B | [Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2140/B%20-%20Another%20Divisibility%20Problem/solution.java) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+| 2181H | [Honey Cake](https://codeforces.com/contest/2181/problem/H) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2181/H%20-%20Honey%20Cake/solution.cpp) |
 | 2194C | [Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2194/C%20-%20Secret%20message/solution.java) |
 | 2200E | [Divisive Battle](https://codeforces.com/contest/2200/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2200/E%20-%20Divisive%20Battle/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.java) |
