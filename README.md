@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 436 | 30 |
+| 437 | 30 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (232)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (105)
-- [math](#math) (192)
+- [math](#math) (193)
 - [number theory](#number-theory) (44)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -915,6 +915,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/891/A%20-%20Pride/solution.java) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.java) |
