@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 439 | 30 |
+| 440 | 30 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [2-sat](#2-sat) (1)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (46)
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (87)
@@ -66,6 +66,7 @@
 | 2166C | [Cyclic Merging](https://codeforces.com/contest/2166/problem/C) | Unrated | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2166/C%20-%20Cyclic%20Merging/solution.java) |
 | 2197C | [Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | Unrated | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2197/C%20-%20Game%20with%20a%20Fraction/solution.java) |
 | 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### binary search
 
