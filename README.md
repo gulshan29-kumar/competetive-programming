@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 445 | 30 |
+| 446 | 30 |
 
 ---
 
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (81)
-- [strings](#strings) (35)
+- [strings](#strings) (36)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (33)
 
@@ -1297,6 +1297,7 @@
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2062/A%20-%20String/solution.java) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.cpp) |
 | 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.java) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.java) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.java) |
