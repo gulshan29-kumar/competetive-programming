@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 448 | 30 |
+| 449 | 30 |
 
 ---
 
@@ -31,14 +31,14 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (236)
+- [greedy](#greedy) (237)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (107)
 - [math](#math) (195)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (81)
+- [sortings](#sortings) (82)
 - [strings](#strings) (36)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (33)
@@ -686,6 +686,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2065C2 | [Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/C2%20-%20Skibidus%20and%20Fanum%20Tax%20(hard%20version)/solution.cpp) |
+| 2065D | [Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/D%20-%20Skibidus%20and%20Sigma/solution.cpp) |
 | 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.java) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.java) |
 | 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2075/A%20-%20To%20Zero/solution.java) |
@@ -1244,6 +1245,7 @@
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.java) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 2059A | [Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2059/A%20-%20Milya%20and%20Two%20Arrays/solution.java) |
+| 2065D | [Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/D%20-%20Skibidus%20and%20Sigma/solution.cpp) |
 | 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.java) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/B%20-%20Team%20Training/solution.java) |
 | 2102B | [The Picky Cat](https://codeforces.com/contest/2102/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/B%20-%20The%20Picky%20Cat/solution.java) |
