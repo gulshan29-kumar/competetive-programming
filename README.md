@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 451 | 30 |
+| 452 | 30 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (7)
-- [binary search](#binary-search) (48)
+- [binary search](#binary-search) (49)
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (88)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (237)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (108)
-- [math](#math) (197)
+- [math](#math) (198)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -74,6 +74,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.java) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.java) |
@@ -944,6 +945,7 @@
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.java) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.java) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.java) |
