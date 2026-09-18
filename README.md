@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 453 | 30 |
+| 454 | 30 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (237)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (109)
+- [implementation](#implementation) (110)
 - [math](#math) (198)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
@@ -845,6 +845,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/C%20-%20Line%20Empire/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1679B | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1679/B%20-%20Stone%20Age%20Problem/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
