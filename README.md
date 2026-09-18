@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 454 | 30 |
+| 455 | 30 |
 
 ---
 
@@ -31,14 +31,14 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (237)
+- [greedy](#greedy) (238)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (110)
-- [math](#math) (198)
+- [math](#math) (199)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (82)
+- [sortings](#sortings) (83)
 - [strings](#strings) (36)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (33)
@@ -619,6 +619,7 @@
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
 | 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1695B | [Circle Game](https://codeforces.com/contest/1695/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1695/B%20-%20Circle%20Game/solution.java) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
@@ -978,6 +979,7 @@
 | 1669H | [Maximal AND](https://codeforces.com/contest/1669/problem/H) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1669/H%20-%20Maximal%20AND/solution.java) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.java) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.java) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.java) |
@@ -1221,6 +1223,7 @@
 | 1557B | [Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1557/B%20-%20Moamen%20and%20k-subarrays/solution.java) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
 | 1704C | [Virus](https://codeforces.com/contest/1704/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1704/C%20-%20Virus/solution.java) |
