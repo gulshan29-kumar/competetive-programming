@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 463 | 30 |
+| 464 | 30 |
 
 ---
 
@@ -33,13 +33,13 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (243)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (116)
+- [implementation](#implementation) (117)
 - [math](#math) (201)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (85)
-- [strings](#strings) (37)
+- [sortings](#sortings) (86)
+- [strings](#strings) (38)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (34)
 
@@ -887,6 +887,7 @@
 | 1937B | [Binary Path](https://codeforces.com/contest/1937/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1937/B%20-%20Binary%20Path/solution.java) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
+| 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1999E | [Triple Operations](https://codeforces.com/contest/1999/problem/E) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1999/E%20-%20Triple%20Operations/solution.java) |
 | 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.java) |
 | 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/A%20-%20Twice/solution.java) |
@@ -1274,6 +1275,7 @@
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1915/F%20-%20Greetings/solution.java) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.java) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
+| 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 2059A | [Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2059/A%20-%20Milya%20and%20Two%20Arrays/solution.java) |
 | 2065D | [Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/D%20-%20Skibidus%20and%20Sigma/solution.cpp) |
 | 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.java) |
@@ -1332,6 +1334,7 @@
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.java) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+| 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2062/A%20-%20String/solution.java) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
