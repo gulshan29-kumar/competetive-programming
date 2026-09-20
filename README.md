@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 464 | 30 |
+| 465 | 30 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (90)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (15)
+- [combinatorics](#combinatorics) (16)
 - [constructive algorithms](#constructive-algorithms) (92)
-- [data structures](#data-structures) (43)
+- [data structures](#data-structures) (44)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (54)
@@ -268,6 +268,7 @@
 | 1879C | [Make it Alternating](https://codeforces.com/contest/1879/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1879/C%20-%20Make%20it%20Alternating/solution.java) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1907/E%20-%20Good%20Triples/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+| 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.java) |
 | 2184D | [Unfair Game](https://codeforces.com/contest/2184/problem/D) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/D%20-%20Unfair%20Game/solution.cpp) |
@@ -405,6 +406,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1919C | [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1919/C%20-%20Grouping%20Increases/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
+| 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
