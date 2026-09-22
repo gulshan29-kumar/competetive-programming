@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 470 | 30 |
+| 471 | 30 |
 
 ---
 
@@ -28,12 +28,12 @@
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (17)
-- [geometry](#geometry) (10)
+- [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (243)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (118)
+- [implementation](#implementation) (119)
 - [math](#math) (201)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
@@ -555,6 +555,7 @@
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.java) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.java) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1869/B%20-%202D%20Traveling/solution.java) |
+| 1926B | [Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1926/B%20-%20Vlad%20and%20Shapes/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.java) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.java) |
 | 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.java) |
@@ -891,6 +892,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
+| 1926B | [Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1926/B%20-%20Vlad%20and%20Shapes/solution.cpp) |
 | 1937B | [Binary Path](https://codeforces.com/contest/1937/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1937/B%20-%20Binary%20Path/solution.java) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
