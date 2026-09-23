@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 472 | 30 |
+| 473 | 30 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [brute force](#brute-force) (90)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (16)
-- [constructive algorithms](#constructive-algorithms) (92)
+- [constructive algorithms](#constructive-algorithms) (93)
 - [data structures](#data-structures) (44)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (243)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (120)
-- [math](#math) (201)
+- [math](#math) (202)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -300,6 +300,7 @@
 | 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.java) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
+| 1674A | [Number Transformation](https://codeforces.com/contest/1674/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/A%20-%20Number%20Transformation/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
@@ -1006,6 +1007,7 @@
 | 1669H | [Maximal AND](https://codeforces.com/contest/1669/problem/H) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1669/H%20-%20Maximal%20AND/solution.java) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.java) |
+| 1674A | [Number Transformation](https://codeforces.com/contest/1674/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/A%20-%20Number%20Transformation/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
