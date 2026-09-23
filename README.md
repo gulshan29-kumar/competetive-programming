@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 473 | 30 |
+| 474 | 30 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (90)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (16)
+- [combinatorics](#combinatorics) (17)
 - [constructive algorithms](#constructive-algorithms) (93)
 - [data structures](#data-structures) (44)
 - [dfs and similar](#dfs-and-similar) (11)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (243)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (120)
-- [math](#math) (202)
+- [math](#math) (203)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -266,6 +266,7 @@
 | 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.java) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.java) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.java) |
+| 1674B | [Dictionary](https://codeforces.com/contest/1674/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/B%20-%20Dictionary/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.java) |
@@ -1008,6 +1009,7 @@
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.java) |
 | 1674A | [Number Transformation](https://codeforces.com/contest/1674/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/A%20-%20Number%20Transformation/solution.cpp) |
+| 1674B | [Dictionary](https://codeforces.com/contest/1674/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/B%20-%20Dictionary/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
