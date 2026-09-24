@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 475 | 30 |
+| 476 | 30 |
 
 ---
 
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (243)
+- [greedy](#greedy) (244)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (121)
-- [math](#math) (203)
+- [math](#math) (204)
 - [number theory](#number-theory) (45)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -685,6 +685,7 @@
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1919C | [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1919/C%20-%20Grouping%20Increases/solution.java) |
+| 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.java) |
 | 1937B | [Binary Path](https://codeforces.com/contest/1937/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1937/B%20-%20Binary%20Path/solution.java) |
@@ -1048,6 +1049,7 @@
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1914/C%20-%20Quests/solution.java) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.java) |
+| 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.java) |
 | 1946B | [Maximum Sum](https://codeforces.com/contest/1946/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/B%20-%20Maximum%20Sum/solution.java) |
 | 1974A | [Phone Desktop](https://codeforces.com/contest/1974/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/A%20-%20Phone%20Desktop/solution.cpp) |
