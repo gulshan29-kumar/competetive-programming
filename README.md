@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 482 | 30 |
+| 483 | 30 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [2-sat](#2-sat) (1)
-- [Uncategorized](#uncategorized) (14)
+- [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (49)
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (90)
@@ -75,6 +75,7 @@
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### binary search
 
