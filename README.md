@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 485 | 30 |
+| 486 | 30 |
 
 ---
 
@@ -35,7 +35,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (123)
 - [math](#math) (205)
-- [number theory](#number-theory) (45)
+- [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (87)
@@ -1214,6 +1214,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1907/E%20-%20Good%20Triples/solution.java) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.java) |
+| 1932B | [Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/B%20-%20Chaya%20Calendar/solution.cpp) |
 | 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.java) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.java) |
 | 2107A | [LRC and VIP](https://codeforces.com/contest/2107/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2107/A%20-%20LRC%20and%20VIP/solution.java) |
