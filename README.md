@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 486 | 30 |
+| 487 | 30 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (49)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (90)
+- [brute force](#brute-force) (91)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (18)
 - [constructive algorithms](#constructive-algorithms) (94)
-- [data structures](#data-structures) (44)
+- [data structures](#data-structures) (45)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (56)
@@ -33,15 +33,15 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (247)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (123)
-- [math](#math) (205)
+- [implementation](#implementation) (124)
+- [math](#math) (206)
 - [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (87)
 - [strings](#strings) (39)
 - [trees](#trees) (10)
-- [two pointers](#two-pointers) (34)
+- [two pointers](#two-pointers) (35)
 
 ---
 
@@ -205,6 +205,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
+| 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.java) |
 | 2038L | [Bridge Renovation](https://codeforces.com/contest/2038/problem/L) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2038/L%20-%20Bridge%20Renovation/solution.java) |
@@ -419,6 +420,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1919C | [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1919/C%20-%20Grouping%20Increases/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
+| 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
@@ -912,6 +914,7 @@
 | 1926B | [Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1926/B%20-%20Vlad%20and%20Shapes/solution.cpp) |
 | 1926C | [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1926/C%20-%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits/solution.cpp) |
 | 1932A | [Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/A%20-%20Thorns%20and%20Coins/solution.cpp) |
+| 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1937B | [Binary Path](https://codeforces.com/contest/1937/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1937/B%20-%20Binary%20Path/solution.java) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
@@ -1064,6 +1067,7 @@
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.java) |
+| 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1946B | [Maximum Sum](https://codeforces.com/contest/1946/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/B%20-%20Maximum%20Sum/solution.java) |
 | 1974A | [Phone Desktop](https://codeforces.com/contest/1974/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/A%20-%20Phone%20Desktop/solution.cpp) |
 | 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.java) |
@@ -1433,6 +1437,7 @@
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.java) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1904/C%20-%20Array%20Game/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
+| 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 2038L | [Bridge Renovation](https://codeforces.com/contest/2038/problem/L) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2038/L%20-%20Bridge%20Renovation/solution.java) |
 | 2106D | [Flower Boy](https://codeforces.com/contest/2106/problem/D) | 1500 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2106/D%20-%20Flower%20Boy/solution.java) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
