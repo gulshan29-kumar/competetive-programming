@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 491 | 30 |
+| 492 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (251)
+- [greedy](#greedy) (252)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (124)
 - [math](#math) (207)
@@ -821,6 +821,7 @@
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.java) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
+| 2220B | [OIE Excursion](https://codeforces.com/contest/2220/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2220/B%20-%20OIE%20Excursion/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
 | 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2227E | [It All Went Sideways](https://codeforces.com/contest/2227/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2227/E%20-%20It%20All%20Went%20Sideways/solution.cpp) |
