@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 492 | 30 |
+| 493 | 30 |
 
 ---
 
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (252)
+- [greedy](#greedy) (253)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (124)
-- [math](#math) (207)
+- [math](#math) (208)
 - [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -761,6 +761,7 @@
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.java) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.java) |
+| 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.java) |
 | 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.java) |
 | 2133B | [Villagers](https://codeforces.com/contest/2133/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2133/B%20-%20Villagers/solution.java) |
@@ -1123,6 +1124,7 @@
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.java) |
+| 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
 | 2131A | [Lever](https://codeforces.com/contest/2131/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2131/A%20-%20Lever/solution.java) |
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.java) |
 | 2132B | [The Secret Number](https://codeforces.com/contest/2132/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2132/B%20-%20The%20Secret%20Number/solution.java) |
