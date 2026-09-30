@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/1003/problem/D" target="_blank" rel="noopener noreferrer">1003D — Coins and Queries</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1003D](https://codeforces.com/contest/1003/problem/D) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Coins and Queries</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Polycarp has $$$n$$$ coins, the value of the $$$i$$$-th coin is $$$a_i$$$. It is guaranteed that all the values are integer powers of $$$2$$$ (i.e. $$$a_i = 2^d$$$ for some <span class="tex-font-style-bf">non-negative</span> integer number $$$d$$$).</p><p>Polycarp wants to know answers on $$$q$$$ queries. The $$$j$$$-th query is described as integer number $$$b_j$$$. The answer to the query is the minimum number of coins that is necessary to obtain the value $$$b_j$$$ using some subset of coins (Polycarp can use only coins he has). If Polycarp can't obtain the value $$$b_j$$$, the answer to the $$$j$$$-th query is <span class="tex-font-style-tt">-1</span>.</p><p>The queries are independent (the answer on the query doesn't affect Polycarp's coins).</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains two integers $$$n$$$ and $$$q$$$ ($$$1 \le n, q \le 2 \cdot 10^5$$$) — the number of coins and the number of queries.</p><p>The second line of the input contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ — values of coins ($$$1 \le a_i \le 2 \cdot 10^9$$$). It is guaranteed that all $$$a_i$$$ are integer powers of $$$2$$$ (i.e. $$$a_i = 2^d$$$ for some <span class="tex-font-style-bf">non-negative</span> integer number $$$d$$$).</p><p>The next $$$q$$$ lines contain one integer each. The $$$j$$$-th line contains one integer $$$b_j$$$ — the value of the $$$j$$$-th query ($$$1 \le b_j \le 10^9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print $$$q$$$ integers $$$ans_j$$$. The $$$j$$$-th integer must be equal to the answer on the $$$j$$$-th query. If Polycarp can't obtain the value $$$b_j$$$ the answer to the $$$j$$$-th query is <span class="tex-font-style-tt">-1</span>.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008723244264407437" id="id005847650227269005" class="input-output-copier">Copy</div></div><pre id="id008723244264407437">5 4<br>2 4 8 2 4<br>8<br>5<br>14<br>10<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008783314224848796" id="id009853730004691803" class="input-output-copier">Copy</div></div><pre id="id008783314224848796">1<br>-1<br>3<br>2<br></pre></div></div></div>
