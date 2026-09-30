@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 495 | 30 |
+| 496 | 30 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (49)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (94)
+- [brute force](#brute-force) (95)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (18)
 - [constructive algorithms](#constructive-algorithms) (96)
@@ -33,8 +33,8 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (253)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (125)
-- [math](#math) (208)
+- [implementation](#implementation) (126)
+- [math](#math) (209)
 - [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -169,6 +169,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/891/A%20-%20Pride/solution.java) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.java) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.java) |
@@ -875,6 +876,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.java) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/976/C%20-%20Nested%20Segments/solution.java) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.java) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.java) |
@@ -1003,6 +1005,7 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/891/A%20-%20Pride/solution.java) |
+| 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.java) |
 | 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.java) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1201/B%20-%20Zero%20Array/solution.java) |
