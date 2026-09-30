@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 496 | 30 |
+| 497 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (253)
+- [greedy](#greedy) (254)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (126)
 - [math](#math) (209)
@@ -612,6 +612,7 @@
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.java) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/976/C%20-%20Nested%20Segments/solution.java) |
 | 982C | [Cut 'em all!](https://codeforces.com/contest/982/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/982/C%20-%20Cut%20'em%20all!/solution.java) |
+| 1003D | [Coins and Queries](https://codeforces.com/contest/1003/problem/D) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/D%20-%20Coins%20and%20Queries/solution.cpp) |
 | 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1110/B%20-%20Tape/solution.java) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.java) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1201/B%20-%20Zero%20Array/solution.java) |
