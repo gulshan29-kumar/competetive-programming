@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 499 | 30 |
+| 500 | 30 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (18)
 - [constructive algorithms](#constructive-algorithms) (96)
-- [data structures](#data-structures) (46)
+- [data structures](#data-structures) (47)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (57)
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (90)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (37)
 
@@ -428,6 +428,7 @@
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
+| 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
@@ -1400,6 +1401,7 @@
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
+| 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2062/A%20-%20String/solution.java) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
