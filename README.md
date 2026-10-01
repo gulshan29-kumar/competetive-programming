@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 501 | 30 |
+| 502 | 30 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (95)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (18)
+- [combinatorics](#combinatorics) (19)
 - [constructive algorithms](#constructive-algorithms) (96)
-- [data structures](#data-structures) (47)
+- [data structures](#data-structures) (48)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (57)
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (256)
+- [greedy](#greedy) (257)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (127)
-- [math](#math) (209)
+- [math](#math) (210)
 - [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -285,6 +285,7 @@
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1907/E%20-%20Good%20Triples/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
+| 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.java) |
 | 2184D | [Unfair Game](https://codeforces.com/contest/2184/problem/D) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/D%20-%20Unfair%20Game/solution.cpp) |
@@ -429,6 +430,7 @@
 | 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
+| 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
@@ -722,6 +724,7 @@
 | 1990B | [Array Craft](https://codeforces.com/contest/1990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/B%20-%20Array%20Craft/solution.cpp) |
 | 1990C | [Mad MAD Sum](https://codeforces.com/contest/1990/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/C%20-%20Mad%20MAD%20Sum/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
+| 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
 | 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.java) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.java) |
@@ -1096,6 +1099,7 @@
 | 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.java) |
 | 1990C | [Mad MAD Sum](https://codeforces.com/contest/1990/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/C%20-%20Mad%20MAD%20Sum/solution.cpp) |
 | 1999E | [Triple Operations](https://codeforces.com/contest/1999/problem/E) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1999/E%20-%20Triple%20Operations/solution.java) |
+| 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.java) |
