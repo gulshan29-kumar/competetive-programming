@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 497 | 30 |
+| 498 | 30 |
 
 ---
 
@@ -24,14 +24,14 @@
 - [data structures](#data-structures) (46)
 - [dfs and similar](#dfs-and-similar) (11)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (56)
+- [dp](#dp) (57)
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (18)
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (254)
+- [greedy](#greedy) (255)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (126)
 - [math](#math) (209)
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (90)
-- [strings](#strings) (39)
+- [strings](#strings) (40)
 - [trees](#trees) (10)
 - [two pointers](#two-pointers) (36)
 
@@ -475,6 +475,7 @@
 | 982C | [Cut 'em all!](https://codeforces.com/contest/982/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/982/C%20-%20Cut%20'em%20all!/solution.java) |
 | 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.java) |
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.java) |
+| 1295C | [Obtain The String](https://codeforces.com/contest/1295/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1295/C%20-%20Obtain%20The%20String/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.java) |
@@ -616,6 +617,7 @@
 | 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1110/B%20-%20Tape/solution.java) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.java) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1201/B%20-%20Zero%20Array/solution.java) |
+| 1295C | [Obtain The String](https://codeforces.com/contest/1295/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1295/C%20-%20Obtain%20The%20String/solution.cpp) |
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.java) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.java) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
@@ -1379,6 +1381,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
+| 1295C | [Obtain The String](https://codeforces.com/contest/1295/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1295/C%20-%20Obtain%20The%20String/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.java) |
