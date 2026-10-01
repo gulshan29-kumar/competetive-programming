@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 498 | 30 |
+| 499 | 30 |
 
 ---
 
@@ -41,7 +41,7 @@
 - [sortings](#sortings) (90)
 - [strings](#strings) (40)
 - [trees](#trees) (10)
-- [two pointers](#two-pointers) (36)
+- [two pointers](#two-pointers) (37)
 
 ---
 
@@ -1464,6 +1464,7 @@
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1904/C%20-%20Array%20Game/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
+| 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 | 2038L | [Bridge Renovation](https://codeforces.com/contest/2038/problem/L) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2038/L%20-%20Bridge%20Renovation/solution.java) |
 | 2106D | [Flower Boy](https://codeforces.com/contest/2106/problem/D) | 1500 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2106/D%20-%20Flower%20Boy/solution.java) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
