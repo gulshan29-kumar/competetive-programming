@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 502 | 30 |
+| 503 | 30 |
 
 ---
 
@@ -22,10 +22,10 @@
 - [combinatorics](#combinatorics) (19)
 - [constructive algorithms](#constructive-algorithms) (96)
 - [data structures](#data-structures) (48)
-- [dfs and similar](#dfs-and-similar) (11)
+- [dfs and similar](#dfs-and-similar) (12)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (57)
-- [dsu](#dsu) (6)
+- [dp](#dp) (58)
+- [dsu](#dsu) (7)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (18)
 - [geometry](#geometry) (11)
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (257)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (127)
+- [implementation](#implementation) (128)
 - [math](#math) (210)
 - [number theory](#number-theory) (46)
 - [schedules](#schedules) (2)
@@ -458,6 +458,7 @@
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.java) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.java) |
+| 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
@@ -480,6 +481,7 @@
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.java) |
 | 1295C | [Obtain The String](https://codeforces.com/contest/1295/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1295/C%20-%20Obtain%20The%20String/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
+| 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.java) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1659/C%20-%20Line%20Empire/solution.java) |
@@ -539,6 +541,7 @@
 | 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.java) |
 | 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1167/C%20-%20News%20Distribution/solution.java) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
+| 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
@@ -894,6 +897,7 @@
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.java) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.java) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.java) |
+| 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.java) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
