@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 512 | 30 |
+| 513 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (263)
+- [greedy](#greedy) (264)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (129)
 - [math](#math) (212)
@@ -683,6 +683,7 @@
 | 1695B | [Circle Game](https://codeforces.com/contest/1695/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1695/B%20-%20Circle%20Game/solution.java) |
 | 1702B | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1702/B%20-%20Polycarp%20Writes%20a%20String%20from%20Memory/solution.cpp) |
 | 1702C | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1702/C%20-%20Train%20and%20Queries/solution.cpp) |
+| 1702D | [Not a Cheap String](https://codeforces.com/contest/1702/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1702/D%20-%20Not%20a%20Cheap%20String/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.java) |
 | 1704C | [Virus](https://codeforces.com/contest/1704/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1704/C%20-%20Virus/solution.java) |
