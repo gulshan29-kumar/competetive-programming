@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 509 | 30 |
+| 510 | 30 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [brute force](#brute-force) (98)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (19)
-- [constructive algorithms](#constructive-algorithms) (97)
+- [constructive algorithms](#constructive-algorithms) (98)
 - [data structures](#data-structures) (50)
 - [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -320,6 +320,7 @@
 | 1674A | [Number Transformation](https://codeforces.com/contest/1674/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/A%20-%20Number%20Transformation/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
+| 1702A | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1702/A%20-%20Round%20Down%20the%20Price/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.java) |
 | 1775B | [Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1775/B%20-%20Gardener%20and%20the%20Array/solution.java) |
