@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1702/problem/B" target="_blank" rel="noopener noreferrer">1702B — Polycarp Writes a String from Memory</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1702B](https://codeforces.com/contest/1702/problem/B) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Polycarp Writes a String from Memory</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Polycarp has a poor memory. Each day he can remember no more than $$$3$$$ of different letters. </p><p>Polycarp wants to write a non-empty string of $$$s$$$ consisting of lowercase Latin letters, taking <span class="tex-font-style-bf">minimum</span> number of days. In how many days will he be able to do it?</p><p>Polycarp initially has an empty string and can only add characters to the end of that string.</p><p>For example, if Polycarp wants to write the string <span class="tex-font-style-tt">lollipops</span>, he will do it in $$$2$$$ days: </p><ul> <li> on the first day Polycarp will memorize the letters <span class="tex-font-style-tt">l</span>, <span class="tex-font-style-tt">o</span>, <span class="tex-font-style-tt">i</span> and write <span class="tex-font-style-tt">lolli</span>; </li><li> On the second day Polycarp will remember the letters <span class="tex-font-style-tt">p</span>, <span class="tex-font-style-tt">o</span>, <span class="tex-font-style-tt">s</span>, add <span class="tex-font-style-tt">pops</span> to the resulting line and get the line <span class="tex-font-style-tt">lollipops</span>. </li></ul><p>If Polycarp wants to write the string <span class="tex-font-style-tt">stringology</span>, he will do it in $$$4$$$ days: </p><ul> <li> in the first day will be written part <span class="tex-font-style-tt">str</span>; </li><li> on day two will be written part <span class="tex-font-style-tt">ing</span>; </li><li> on the third day, part of <span class="tex-font-style-tt">olog</span> will be written; </li><li> on the fourth day, part of <span class="tex-font-style-tt">y</span> will be written. </li></ul><p>For a given string $$$s$$$, print the minimum number of days it will take Polycarp to write it.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases.</p><p>Each test case consists of a non-empty string $$$s$$$ consisting of lowercase Latin letters (the length of the string $$$s$$$ does not exceed $$$2 \cdot 10^5$$$) — the string Polycarp wants to construct.</p><p>It is guaranteed that the sum of string lengths $$$s$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print a single number — <span class="tex-font-style-bf">minimum</span> number of days it will take Polycarp to write the string $$$s$$$ from memory.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003860104734626457" id="id007047635191383697" class="input-output-copier">Copy</div></div><pre id="id003860104734626457"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">lollipops</div><div class="test-example-line test-example-line-even test-example-line-2">stringology</div><div class="test-example-line test-example-line-odd test-example-line-3">abracadabra</div><div class="test-example-line test-example-line-even test-example-line-4">codeforces</div><div class="test-example-line test-example-line-odd test-example-line-5">test</div><div class="test-example-line test-example-line-even test-example-line-6">f</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008957770388296511" id="id0010918558516429855" class="input-output-copier">Copy</div></div><pre id="id008957770388296511">2
+4
+3
+4
+1
+1
+</pre></div></div></div>
