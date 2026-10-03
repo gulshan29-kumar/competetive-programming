@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 510 | 30 |
+| 511 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (261)
+- [greedy](#greedy) (262)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (129)
 - [math](#math) (212)
@@ -680,6 +680,7 @@
 | 1676F | [Longest Strike](https://codeforces.com/contest/1676/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/F%20-%20Longest%20Strike/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1695B | [Circle Game](https://codeforces.com/contest/1695/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1695/B%20-%20Circle%20Game/solution.java) |
+| 1702B | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1702/B%20-%20Polycarp%20Writes%20a%20String%20from%20Memory/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.java) |
 | 1704C | [Virus](https://codeforces.com/contest/1704/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1704/C%20-%20Virus/solution.java) |
