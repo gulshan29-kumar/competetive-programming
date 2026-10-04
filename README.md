@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 516 | 30 |
+| 517 | 30 |
 
 ---
 
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (266)
+- [greedy](#greedy) (267)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (130)
-- [math](#math) (213)
+- [math](#math) (214)
 - [number theory](#number-theory) (47)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -745,6 +745,7 @@
 | 1937B | [Binary Path](https://codeforces.com/contest/1937/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1937/B%20-%20Binary%20Path/solution.java) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
+| 1945A | [Setting up Camp](https://codeforces.com/contest/1945/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1945/A%20-%20Setting%20up%20Camp/solution.cpp) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1946B | [Maximum Sum](https://codeforces.com/contest/1946/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/B%20-%20Maximum%20Sum/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
@@ -1133,6 +1134,7 @@
 | 1932C | [LR-remainders](https://codeforces.com/contest/1932/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1932/C%20-%20LR-remainders/solution.cpp) |
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
+| 1945A | [Setting up Camp](https://codeforces.com/contest/1945/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1945/A%20-%20Setting%20up%20Camp/solution.cpp) |
 | 1946B | [Maximum Sum](https://codeforces.com/contest/1946/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/B%20-%20Maximum%20Sum/solution.java) |
 | 1974A | [Phone Desktop](https://codeforces.com/contest/1974/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/A%20-%20Phone%20Desktop/solution.cpp) |
 | 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.java) |
