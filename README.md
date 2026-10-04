@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 520 | 30 |
+| 521 | 30 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (50)
 - [bitmasks](#bitmasks) (26)
-- [brute force](#brute-force) (99)
+- [brute force](#brute-force) (100)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (19)
-- [constructive algorithms](#constructive-algorithms) (99)
+- [constructive algorithms](#constructive-algorithms) (100)
 - [data structures](#data-structures) (52)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -33,8 +33,8 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (269)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (130)
-- [math](#math) (216)
+- [implementation](#implementation) (131)
+- [math](#math) (217)
 - [number theory](#number-theory) (49)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -226,6 +226,7 @@
 | 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.java) |
 | 2086B | [Large Array and Segments](https://codeforces.com/contest/2086/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2086/B%20-%20Large%20Array%20and%20Segments/solution.java) |
 | 2090B | [Pushing Balls](https://codeforces.com/contest/2090/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2090/B%20-%20Pushing%20Balls/solution.java) |
+| 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.java) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.java) |
 | 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.java) |
@@ -350,6 +351,7 @@
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.java) |
 | 2082A | [Binary Matrix](https://codeforces.com/contest/2082/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2082/A%20-%20Binary%20Matrix/solution.java) |
 | 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.java) |
+| 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.java) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.java) |
 | 2102A | [Dinner Time](https://codeforces.com/contest/2102/problem/A) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/A%20-%20Dinner%20Time/solution.java) |
@@ -994,6 +996,7 @@
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.java) |
 | 2090A | [Treasure Hunt](https://codeforces.com/contest/2090/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2090/A%20-%20Treasure%20Hunt/solution.java) |
 | 2090B | [Pushing Balls](https://codeforces.com/contest/2090/problem/B) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2090/B%20-%20Pushing%20Balls/solution.java) |
+| 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
 | 2102B | [The Picky Cat](https://codeforces.com/contest/2102/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2102/B%20-%20The%20Picky%20Cat/solution.java) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.java) |
 | 2109A | [It's Time To Duel](https://codeforces.com/contest/2109/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2109/A%20-%20It's%20Time%20To%20Duel/solution.java) |
@@ -1166,6 +1169,7 @@
 | 2090A | [Treasure Hunt](https://codeforces.com/contest/2090/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2090/A%20-%20Treasure%20Hunt/solution.java) |
 | 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.java) |
 | 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
+| 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.java) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.java) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.java) |
