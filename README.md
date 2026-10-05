@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 523 | 30 |
+| 524 | 30 |
 
 ---
 
@@ -33,13 +33,13 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (270)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (131)
+- [implementation](#implementation) (132)
 - [math](#math) (219)
 - [number theory](#number-theory) (49)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (94)
-- [strings](#strings) (42)
+- [strings](#strings) (43)
 - [trees](#trees) (11)
 - [two pointers](#two-pointers) (39)
 
@@ -993,6 +993,7 @@
 | 2031D | [Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/D%20-%20Penchick%20and%20Desert%20Rabbit/solution.cpp) |
 | 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/A%20-%20Twice/solution.java) |
 | 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.java) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2049A | [MEX Destruction](https://codeforces.com/contest/2049/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2049/A%20-%20MEX%20Destruction/solution.java) |
 | 2050A | [Line Breaks](https://codeforces.com/contest/2050/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2050/A%20-%20Line%20Breaks/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
@@ -1472,6 +1473,7 @@
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2062/A%20-%20String/solution.java) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
