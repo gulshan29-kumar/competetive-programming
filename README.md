@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 528 | 30 |
+| 529 | 30 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (273)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (134)
+- [implementation](#implementation) (135)
 - [math](#math) (222)
 - [number theory](#number-theory) (50)
 - [schedules](#schedules) (2)
@@ -992,6 +992,7 @@
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1999E | [Triple Operations](https://codeforces.com/contest/1999/problem/E) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1999/E%20-%20Triple%20Operations/solution.java) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
