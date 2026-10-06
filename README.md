@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 527 | 30 |
+| 528 | 30 |
 
 ---
 
@@ -33,13 +33,13 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (273)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (133)
+- [implementation](#implementation) (134)
 - [math](#math) (222)
 - [number theory](#number-theory) (50)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (94)
-- [strings](#strings) (43)
+- [strings](#strings) (44)
 - [trees](#trees) (11)
 - [two pointers](#two-pointers) (39)
 
@@ -966,6 +966,7 @@
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1722/A%20-%20Spell%20Check/solution.cpp) |
 | 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1722/B%20-%20Colourblindness/solution.cpp) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1722/C%20-%20Word%20Game/solution.cpp) |
+| 1741A | [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1741/A%20-%20Compare%20T-Shirt%20Sizes/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.java) |
@@ -1473,6 +1474,7 @@
 | 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.java) |
 | 1674C | [Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/C%20-%20Infinite%20Replacement/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
+| 1741A | [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1741/A%20-%20Compare%20T-Shirt%20Sizes/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.java) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.java) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.java) |
