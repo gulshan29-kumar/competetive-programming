@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 532 | 30 |
+| 533 | 30 |
 
 ---
 
@@ -28,12 +28,12 @@
 - [dsu](#dsu) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (18)
-- [geometry](#geometry) (11)
+- [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (273)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (137)
+- [implementation](#implementation) (138)
 - [math](#math) (222)
 - [number theory](#number-theory) (50)
 - [schedules](#schedules) (2)
@@ -620,6 +620,7 @@
 | 2120B | [Square Pool](https://codeforces.com/contest/2120/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2120/B%20-%20Square%20Pool/solution.java) |
 | 2148B | [Lasers](https://codeforces.com/contest/2148/problem/B) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2148/B%20-%20Lasers/solution.java) |
 | 2167E | [khba Loves to Sleep!](https://codeforces.com/contest/2167/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2167/E%20-%20khba%20Loves%20to%20Sleep!/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### graph matchings
 
@@ -1065,6 +1066,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### math
