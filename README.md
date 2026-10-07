@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 531 | 30 |
+| 532 | 30 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (19)
 - [constructive algorithms](#constructive-algorithms) (102)
-- [data structures](#data-structures) (53)
+- [data structures](#data-structures) (54)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (64)
@@ -465,6 +465,7 @@
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### dfs and similar
 
