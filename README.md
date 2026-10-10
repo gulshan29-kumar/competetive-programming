@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 541 | 31 |
+| 542 | 31 |
 
 ---
 
@@ -24,22 +24,22 @@
 - [data structures](#data-structures) (54)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (65)
+- [dp](#dp) (66)
 - [dsu](#dsu) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (18)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (277)
+- [greedy](#greedy) (278)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (142)
 - [math](#math) (226)
 - [number theory](#number-theory) (51)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (96)
-- [strings](#strings) (46)
+- [sortings](#sortings) (97)
+- [strings](#strings) (47)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (11)
 - [two pointers](#two-pointers) (39)
@@ -533,6 +533,7 @@
 | 1945D | [Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1945/D%20-%20Seraphim%20the%20Owl/solution.cpp) |
 | 1946B | [Maximum Sum](https://codeforces.com/contest/1946/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/B%20-%20Maximum%20Sum/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
+| 1996C | [Sort](https://codeforces.com/contest/1996/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/C%20-%20Sort/solution.cpp) |
 | 1999E | [Triple Operations](https://codeforces.com/contest/1999/problem/E) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1999/E%20-%20Triple%20Operations/solution.java) |
 | 2031D | [Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/D%20-%20Penchick%20and%20Desert%20Rabbit/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
@@ -771,6 +772,7 @@
 | 1990B | [Array Craft](https://codeforces.com/contest/1990/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/B%20-%20Array%20Craft/solution.cpp) |
 | 1990C | [Mad MAD Sum](https://codeforces.com/contest/1990/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/C%20-%20Mad%20MAD%20Sum/solution.cpp) |
 | 1996B | [Scale](https://codeforces.com/contest/1996/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/B%20-%20Scale/solution.cpp) |
+| 1996C | [Sort](https://codeforces.com/contest/1996/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/C%20-%20Sort/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
 | 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
 | 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.java) |
@@ -1438,6 +1440,7 @@
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.java) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1990A | [Submission Bait](https://codeforces.com/contest/1990/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1990/A%20-%20Submission%20Bait/solution.cpp) |
+| 1996C | [Sort](https://codeforces.com/contest/1996/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/C%20-%20Sort/solution.cpp) |
 | 2031B | [Penchick and Satay Sticks](https://codeforces.com/contest/2031/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/B%20-%20Penchick%20and%20Satay%20Sticks/solution.cpp) |
 | 2059A | [Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2059/A%20-%20Milya%20and%20Two%20Arrays/solution.java) |
 | 2063B | [Subsequence Update](https://codeforces.com/contest/2063/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2063/B%20-%20Subsequence%20Update/solution.cpp) |
@@ -1510,6 +1513,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
+| 1996C | [Sort](https://codeforces.com/contest/1996/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/C%20-%20Sort/solution.cpp) |
 | 2000C | [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/C%20-%20Numeric%20String%20Template/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2062/A%20-%20String/solution.java) |
