@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 544 | 31 |
+| 545 | 31 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (278)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (144)
+- [implementation](#implementation) (145)
 - [math](#math) (226)
 - [number theory](#number-theory) (51)
 - [schedules](#schedules) (2)
@@ -1009,6 +1009,7 @@
 | 1950B | [Upscaling](https://codeforces.com/contest/1950/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1950/B%20-%20Upscaling/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
+| 1971C | [Clock and Strings](https://codeforces.com/contest/1971/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1971/C%20-%20Clock%20and%20Strings/solution.cpp) |
 | 1974B | [Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/B%20-%20Symmetric%20Encoding/solution.cpp) |
 | 1996B | [Scale](https://codeforces.com/contest/1996/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1996/B%20-%20Scale/solution.cpp) |
 | 1999E | [Triple Operations](https://codeforces.com/contest/1999/problem/E) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1999/E%20-%20Triple%20Operations/solution.java) |
