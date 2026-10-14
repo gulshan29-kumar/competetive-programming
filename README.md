@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 552 | 31 |
+| 553 | 31 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [bitmasks](#bitmasks) (26)
 - [brute force](#brute-force) (102)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (19)
-- [constructive algorithms](#constructive-algorithms) (105)
+- [combinatorics](#combinatorics) (20)
+- [constructive algorithms](#constructive-algorithms) (106)
 - [data structures](#data-structures) (54)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (100)
-- [strings](#strings) (49)
+- [strings](#strings) (50)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (11)
 - [two pointers](#two-pointers) (40)
@@ -297,6 +297,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1974C | [Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1974/C%20-%20Beautiful%20Triple%20Pairs/solution.cpp) |
 | 2000E | [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2000/E%20-%20Photoshoot%20for%20Gorillas/solution.cpp) |
+| 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.java) |
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.java) |
 | 2184D | [Unfair Game](https://codeforces.com/contest/2184/problem/D) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/D%20-%20Unfair%20Game/solution.cpp) |
@@ -356,6 +357,7 @@
 | 2063B | [Subsequence Update](https://codeforces.com/contest/2063/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2063/B%20-%20Subsequence%20Update/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.java) |
+| 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
 | 2082A | [Binary Matrix](https://codeforces.com/contest/2082/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2082/A%20-%20Binary%20Matrix/solution.java) |
 | 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.java) |
 | 2092B | [Lady Bug](https://codeforces.com/contest/2092/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2092/B%20-%20Lady%20Bug/solution.cpp) |
@@ -1545,6 +1547,7 @@
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.cpp) |
+| 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
 | 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.java) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.java) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.java) |
