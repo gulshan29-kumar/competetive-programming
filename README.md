@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 562 | 31 |
+| 563 | 31 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (287)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (148)
-- [math](#math) (235)
+- [math](#math) (236)
 - [number theory](#number-theory) (54)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -1173,6 +1173,7 @@
 | 1794C | [Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1794/C%20-%20Scoring%20Subsequences/solution.java) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.java) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.java) |
+| 1822C | [Bun Lover](https://codeforces.com/contest/1822/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1822/C%20-%20Bun%20Lover/solution.cpp) |
 | 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.java) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
