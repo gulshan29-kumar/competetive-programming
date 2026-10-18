@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 566 | 31 |
+| 567 | 31 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [brute force](#brute-force) (102)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (21)
-- [constructive algorithms](#constructive-algorithms) (110)
+- [constructive algorithms](#constructive-algorithms) (111)
 - [data structures](#data-structures) (54)
 - [dfs and similar](#dfs-and-similar) (15)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -41,7 +41,7 @@
 - [sortings](#sortings) (100)
 - [strings](#strings) (51)
 - [ternary search](#ternary-search) (1)
-- [trees](#trees) (11)
+- [trees](#trees) (12)
 - [two pointers](#two-pointers) (41)
 
 ---
@@ -328,6 +328,7 @@
 | 1611A | [Make Even](https://codeforces.com/contest/1611/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1611/A%20-%20Make%20Even/solution.cpp) |
 | 1611B | [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1611/B%20-%20Team%20Composition%3A%20Programmers%20and%20Mathematicians/solution.cpp) |
 | 1611C | [Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1611/C%20-%20Polycarp%20Recovers%20the%20Permutation/solution.cpp) |
+| 1611D | [Weights Assignment For Tree Edges](https://codeforces.com/contest/1611/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1611/D%20-%20Weights%20Assignment%20For%20Tree%20Edges/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.java) |
 | 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.java) |
@@ -1609,6 +1610,7 @@
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.java) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.java) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
+| 1611D | [Weights Assignment For Tree Edges](https://codeforces.com/contest/1611/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1611/D%20-%20Weights%20Assignment%20For%20Tree%20Edges/solution.cpp) |
 | 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.java) |
 | 1946C | [Tree Cutting](https://codeforces.com/contest/1946/problem/C) | 1600 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1946/C%20-%20Tree%20Cutting/solution.java) |
 | 2063C | [Remove Exactly Two](https://codeforces.com/contest/2063/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2063/C%20-%20Remove%20Exactly%20Two/solution.cpp) |
