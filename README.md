@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 572 | 31 |
+| 573 | 31 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (290)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (151)
+- [implementation](#implementation) (152)
 - [math](#math) (239)
 - [number theory](#number-theory) (55)
 - [schedules](#schedules) (2)
@@ -980,6 +980,7 @@
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/976/C%20-%20Nested%20Segments/solution.java) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.java) |
