@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 576 | 31 |
+| 577 | 31 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (53)
 - [bitmasks](#bitmasks) (28)
-- [brute force](#brute-force) (102)
+- [brute force](#brute-force) (103)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (22)
 - [constructive algorithms](#constructive-algorithms) (112)
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (291)
+- [greedy](#greedy) (292)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (152)
 - [math](#math) (240)
@@ -277,6 +277,7 @@
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### chinese remainder theorem
 
@@ -960,6 +961,7 @@
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 | 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
