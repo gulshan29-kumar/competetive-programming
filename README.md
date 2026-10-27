@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 574 | 31 |
+| 575 | 31 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (290)
+- [greedy](#greedy) (291)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (152)
 - [math](#math) (240)
@@ -960,6 +960,7 @@
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
+| 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
