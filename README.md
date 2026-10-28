@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 577 | 31 |
+| 578 | 31 |
 
 ---
 
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (8)
-- [greedy](#greedy) (292)
+- [greedy](#greedy) (293)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (152)
-- [math](#math) (240)
+- [math](#math) (241)
 - [number theory](#number-theory) (55)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -690,6 +690,7 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.java) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.java) |
@@ -1147,6 +1148,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.java) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.java) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.java) |
