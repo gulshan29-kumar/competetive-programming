@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 578 | 31 |
+| 579 | 31 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (293)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (152)
-- [math](#math) (241)
+- [math](#math) (242)
 - [number theory](#number-theory) (55)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -1138,6 +1138,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/891/A%20-%20Pride/solution.java) |
 | 1003C | [Intense Heat](https://codeforces.com/contest/1003/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1003/C%20-%20Intense%20Heat/solution.cpp) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.java) |
