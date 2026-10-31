@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 579 | 31 |
+| 580 | 31 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [2-sat](#2-sat) (1)
-- [Uncategorized](#uncategorized) (16)
+- [Uncategorized](#uncategorized) (17)
 - [binary search](#binary-search) (53)
 - [bitmasks](#bitmasks) (28)
 - [brute force](#brute-force) (103)
@@ -79,6 +79,7 @@
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 | 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
+| 2274C | [Lavencia Oranges](https://codeforces.com/contest/2274/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/C%20-%20Lavencia%20Oranges/solution.cpp) |
 
 ### binary search
 
