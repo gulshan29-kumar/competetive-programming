@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 581 | 31 |
+| 582 | 31 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [bitmasks](#bitmasks) (28)
 - [brute force](#brute-force) (103)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (22)
+- [combinatorics](#combinatorics) (23)
 - [constructive algorithms](#constructive-algorithms) (112)
 - [data structures](#data-structures) (55)
 - [dfs and similar](#dfs-and-similar) (15)
@@ -34,11 +34,11 @@
 - [greedy](#greedy) (293)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (152)
-- [math](#math) (242)
+- [math](#math) (243)
 - [number theory](#number-theory) (55)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (100)
+- [sortings](#sortings) (101)
 - [strings](#strings) (53)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (12)
@@ -310,6 +310,7 @@
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 | 2246C | [0mar and Alternating Sums](https://codeforces.com/contest/2246/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2246/C%20-%200mar%20and%20Alternating%20Sums/solution.java) |
 | 2255B | [A Ribbon for Tomorrow](https://codeforces.com/contest/2255/problem/B) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2255/B%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
 | 2276D | [Caveman](https://codeforces.com/contest/2276/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/D%20-%20Caveman/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
@@ -1378,6 +1379,7 @@
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 | 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
@@ -1559,6 +1561,7 @@
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### strings
