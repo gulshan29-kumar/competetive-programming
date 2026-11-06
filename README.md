@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 586 | 31 |
+| 587 | 31 |
 
 ---
 
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (294)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (153)
-- [math](#math) (246)
+- [math](#math) (247)
 - [number theory](#number-theory) (56)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -1383,6 +1383,7 @@
 | 2255B | [A Ribbon for Tomorrow](https://codeforces.com/contest/2255/problem/B) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2255/B%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
