@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 585 | 31 |
+| 586 | 31 |
 
 ---
 
@@ -17,14 +17,14 @@
 - [Uncategorized](#uncategorized) (18)
 - [binary search](#binary-search) (53)
 - [bitmasks](#bitmasks) (29)
-- [brute force](#brute-force) (103)
+- [brute force](#brute-force) (104)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (23)
 - [constructive algorithms](#constructive-algorithms) (113)
 - [data structures](#data-structures) (55)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (69)
+- [dp](#dp) (70)
 - [dsu](#dsu) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (21)
@@ -34,8 +34,8 @@
 - [greedy](#greedy) (294)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (153)
-- [math](#math) (245)
-- [number theory](#number-theory) (55)
+- [math](#math) (246)
+- [number theory](#number-theory) (56)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (101)
@@ -280,6 +280,7 @@
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### chinese remainder theorem
@@ -593,6 +594,7 @@
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.java) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
@@ -1389,6 +1391,7 @@
 | 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
@@ -1452,6 +1455,7 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### schedules
