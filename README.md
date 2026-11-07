@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 587 | 31 |
+| 588 | 31 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (9)
 - [greedy](#greedy) (294)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (153)
+- [implementation](#implementation) (154)
 - [math](#math) (247)
 - [number theory](#number-theory) (56)
 - [schedules](#schedules) (2)
@@ -1145,6 +1145,7 @@
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
+| 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
 
 ### math
 
