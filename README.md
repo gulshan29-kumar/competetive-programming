@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 588 | 31 |
+| 589 | 31 |
 
 ---
 
@@ -31,11 +31,11 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (9)
-- [greedy](#greedy) (294)
+- [greedy](#greedy) (295)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (154)
-- [math](#math) (247)
-- [number theory](#number-theory) (56)
+- [math](#math) (248)
+- [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (101)
@@ -978,6 +978,7 @@
 | 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
+| 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 
 ### hashing
 
@@ -1398,6 +1399,7 @@
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+| 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 
 ### number theory
 
@@ -1459,6 +1461,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+| 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 
 ### schedules
 
