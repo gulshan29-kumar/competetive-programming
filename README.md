@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 589 | 31 |
+| 590 | 31 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (2)
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (18)
-- [binary search](#binary-search) (53)
+- [binary search](#binary-search) (54)
 - [bitmasks](#bitmasks) (29)
-- [brute force](#brute-force) (104)
+- [brute force](#brute-force) (105)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (23)
 - [constructive algorithms](#constructive-algorithms) (113)
@@ -31,9 +31,9 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (9)
-- [greedy](#greedy) (295)
+- [greedy](#greedy) (296)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (154)
+- [implementation](#implementation) (155)
 - [math](#math) (248)
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
@@ -139,6 +139,7 @@
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
+| 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
 
 ### bitmasks
 
@@ -282,6 +283,7 @@
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
+| 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
 
 ### chinese remainder theorem
 
@@ -976,6 +978,7 @@
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
 | 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 | 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
+| 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
@@ -1145,6 +1148,7 @@
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
 
