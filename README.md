@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 595 | 31 |
+| 596 | 31 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [2-sat](#2-sat) (1)
-- [Uncategorized](#uncategorized) (18)
+- [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (54)
 - [bitmasks](#bitmasks) (29)
 - [brute force](#brute-force) (105)
@@ -81,6 +81,7 @@
 | 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 | 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2274C | [Lavencia Oranges](https://codeforces.com/contest/2274/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/C%20-%20Lavencia%20Oranges/solution.cpp) |
+| 2280C | [Reverse and Double](https://codeforces.com/contest/2280/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/C%20-%20Reverse%20and%20Double/solution.cpp) |
 
 ### binary search
 
