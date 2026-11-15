@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 594 | 31 |
+| 595 | 31 |
 
 ---
 
@@ -38,7 +38,7 @@
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (103)
+- [sortings](#sortings) (104)
 - [strings](#strings) (55)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (12)
@@ -1496,6 +1496,7 @@
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/845/C%20-%20Two%20TVs/solution.java) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.java) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/976/C%20-%20Nested%20Segments/solution.java) |
+| 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.cpp) |
 | 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1110/B%20-%20Tape/solution.java) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.java) |
