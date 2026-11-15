@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 596 | 31 |
+| 597 | 31 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [brute force](#brute-force) (105)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (23)
-- [constructive algorithms](#constructive-algorithms) (114)
+- [constructive algorithms](#constructive-algorithms) (115)
 - [data structures](#data-structures) (55)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (297)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (158)
-- [math](#math) (249)
+- [math](#math) (250)
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -437,6 +437,7 @@
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
+| 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
 ### data structures
@@ -1410,6 +1411,7 @@
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
+| 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### number theory
