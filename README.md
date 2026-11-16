@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 597 | 31 |
+| 598 | 31 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [bitmasks](#bitmasks) (29)
 - [brute force](#brute-force) (105)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (23)
+- [combinatorics](#combinatorics) (24)
 - [constructive algorithms](#constructive-algorithms) (115)
 - [data structures](#data-structures) (55)
 - [dfs and similar](#dfs-and-similar) (16)
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (104)
-- [strings](#strings) (55)
+- [strings](#strings) (56)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (12)
 - [two pointers](#two-pointers) (41)
@@ -319,6 +319,7 @@
 | 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
 | 2276D | [Caveman](https://codeforces.com/contest/2276/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/D%20-%20Caveman/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
+| 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 
 ### constructive algorithms
 
@@ -1658,6 +1659,7 @@
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
+| 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### ternary search
