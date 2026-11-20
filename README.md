@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 601 | 31 |
+| 602 | 31 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [data structures](#data-structures) (56)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (70)
+- [dp](#dp) (71)
 - [dsu](#dsu) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (21)
@@ -33,7 +33,7 @@
 - [graphs](#graphs) (9)
 - [greedy](#greedy) (299)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (159)
+- [implementation](#implementation) (160)
 - [math](#math) (252)
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
@@ -607,6 +607,7 @@
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### dsu
@@ -1162,6 +1163,7 @@
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
