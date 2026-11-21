@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 605 | 31 |
+| 606 | 31 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [2-sat](#2-sat) (1)
-- [Uncategorized](#uncategorized) (21)
+- [Uncategorized](#uncategorized) (22)
 - [binary search](#binary-search) (55)
 - [bitmasks](#bitmasks) (29)
 - [brute force](#brute-force) (106)
@@ -84,6 +84,7 @@
 | 2280C | [Reverse and Double](https://codeforces.com/contest/2280/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/C%20-%20Reverse%20and%20Double/solution.cpp) |
 | 2288A | [Youmu Konpaku and the Duel](https://codeforces.com/contest/2288/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2288/A%20-%20Youmu%20Konpaku%20and%20the%20Duel/solution.cpp) |
 | 2288B1 | [Yukari Yakumo and the Boundary Stones (Easy Version)](https://codeforces.com/contest/2288/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2288/B1%20-%20Yukari%20Yakumo%20and%20the%20Boundary%20Stones%20(Easy%20Version)/solution.cpp) |
+| 2288C | [Reimu Hakurei and the Youkai](https://codeforces.com/contest/2288/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2288/C%20-%20Reimu%20Hakurei%20and%20the%20Youkai/solution.cpp) |
 
 ### binary search
 
