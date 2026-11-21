@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 602 | 31 |
+| 603 | 31 |
 
 ---
 
@@ -21,25 +21,25 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (25)
 - [constructive algorithms](#constructive-algorithms) (116)
-- [data structures](#data-structures) (56)
+- [data structures](#data-structures) (57)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (71)
-- [dsu](#dsu) (8)
+- [dsu](#dsu) (9)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (21)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (9)
-- [greedy](#greedy) (299)
+- [greedy](#greedy) (300)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (160)
+- [implementation](#implementation) (161)
 - [math](#math) (252)
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (105)
-- [strings](#strings) (56)
+- [strings](#strings) (57)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (12)
 - [two pointers](#two-pointers) (43)
@@ -505,6 +505,7 @@
 | 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 | 2285C | [Max Substitution](https://codeforces.com/contest/2285/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/C%20-%20Max%20Substitution/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### dfs and similar
 
@@ -622,6 +623,7 @@
 | 2031D | [Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/D%20-%20Penchick%20and%20Desert%20Rabbit/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### expression parsing
 
@@ -995,6 +997,7 @@
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### hashing
 
@@ -1169,6 +1172,7 @@
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### math
 
@@ -1674,6 +1678,7 @@
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### ternary search
 
