@@ -1,0 +1,27 @@
+<h2><a href="https://codeforces.com/contest/2288/problem/C" target="_blank" rel="noopener noreferrer">2288C — Reimu Hakurei and the Youkai</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | Unrated |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2288C](https://codeforces.com/contest/2288/problem/C) |
+
+## Topics
+_No tags available_
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Reimu Hakurei and the Youkai</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p> </p><p>Reimu Hakurei is facing $$$n$$$ youkai. The $$$i$$$-th youkai has $$$a_i$$$ health, and Reimu's attack power is $$$x$$$.</p><p>While there are $$$k$$$ youkai on the field, Reimu may choose a non-empty proper subset $$$S$$$ of them — so $$$1 \le |S|  \lt  k$$$ — and attack. Every youkai in $$$S$$$ loses $$$x$$$ health. If a youkai's health becomes $$$0$$$ or less, it is defeated and removed from the field.</p><p>If at least one youkai is defeated by this attack, the attack costs $$$0$$$ spell cards. Otherwise, it costs $$$1$$$ spell card.</p><p>Reimu wants to leave exactly one youkai alive. Find the minimum total number of spell cards she must spend.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows.</p><p>The first line of each case contains two integers $$$n$$$ and $$$x$$$ ($$$2 \le n \le 10^5$$$, $$$1 \le x \le 10^9$$$) — the number of youkai and Reimu's attack power.</p><p>The second line of each case contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \le a_i \le 10^9$$$) — the initial health of the youkai.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the minimum number of spell cards Reimu has to spend.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008764277883768983" id="id0023436932328228421" class="input-output-copier">Copy</div></div><pre data-content="3
+2 5
+9 10
+6 1
+1 1 4 5 1 4
+6 1
+1 9 1 9 8 10
+" id="id008764277883768983"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">2 5</div><div class="test-example-line test-example-line-odd test-example-line-1">9 10</div><div class="test-example-line test-example-line-even test-example-line-2">6 1</div><div class="test-example-line test-example-line-even test-example-line-2">1 1 4 5 1 4</div><div class="test-example-line test-example-line-odd test-example-line-3">6 1</div><div class="test-example-line test-example-line-odd test-example-line-3">1 9 1 9 8 10</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007009123366308031" id="id0012145941026782991" class="input-output-copier">Copy</div></div><pre data-content="1
+0
+5
+" id="id007009123366308031"><div class="test-example-line test-example-line-odd test-example-line-1">1</div><div class="test-example-line test-example-line-even test-example-line-2">0</div><div class="test-example-line test-example-line-odd test-example-line-3">5</div></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, there are only two youkai, so the only valid non-empty proper subset is a single youkai. Reimu may choose the same youkai in two consecutive attacks: the first attack costs $$$1$$$ spell card, and the second one defeats this youkai and costs $$$0$$$ spell cards. Thus, the answer is $$$1$$$.</p><p>In the second test case, an optimal sequence of attacks is as follows (the remaining youkai are listed in arbitrary order).</p><ul> <li> Choose one $$$1$$$-health youkai, both $$$4$$$-health youkai, and the $$$5$$$-health youkai. The chosen $$$1$$$-health youkai is defeated, so this attack costs $$$0$$$. Remaining healths: $$$1, 1, 3, 3, 4$$$. </li><li> Choose one $$$1$$$-health youkai, both $$$3$$$-health youkai, and the $$$4$$$-health youkai. The chosen $$$1$$$-health youkai is defeated, so this attack costs $$$0$$$. Remaining healths: $$$1, 2, 2, 3$$$. </li><li> Choose one $$$1$$$-health youkai and both $$$2$$$-health youkai. The chosen $$$1$$$-health youkai is defeated, so this attack costs $$$0$$$. Remaining healths: $$$1, 1, 3$$$. </li><li> Choose both $$$1$$$-health youkai. Both of them are defeated, so this attack costs $$$0$$$. Remaining healths: $$$3$$$. </li></ul><p>Since every attack defeated at least one youkai, Reimu spends $$$0$$$ spell cards.</p></div>
