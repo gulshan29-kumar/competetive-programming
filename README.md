@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 606 | 31 |
+| 607 | 31 |
 
 ---
 
@@ -15,12 +15,12 @@
 - [*special](#special) (2)
 - [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (22)
-- [binary search](#binary-search) (55)
+- [binary search](#binary-search) (56)
 - [bitmasks](#bitmasks) (29)
 - [brute force](#brute-force) (106)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (25)
-- [constructive algorithms](#constructive-algorithms) (116)
+- [constructive algorithms](#constructive-algorithms) (117)
 - [data structures](#data-structures) (57)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (300)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (161)
-- [math](#math) (252)
+- [math](#math) (253)
 - [number theory](#number-theory) (57)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -145,6 +145,7 @@
 | 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 | 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 | 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
+| 2290F | [Value Counters](https://codeforces.com/contest/2290/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/F%20-%20Value%20Counters/solution.cpp) |
 
 ### bitmasks
 
@@ -447,6 +448,7 @@
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
+| 2290F | [Value Counters](https://codeforces.com/contest/2290/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/F%20-%20Value%20Counters/solution.cpp) |
 
 ### data structures
 
@@ -1433,6 +1435,7 @@
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
 | 2285C | [Max Substitution](https://codeforces.com/contest/2285/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2285/C%20-%20Max%20Substitution/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
+| 2290F | [Value Counters](https://codeforces.com/contest/2290/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2290/F%20-%20Value%20Counters/solution.cpp) |
 
 ### number theory
 
