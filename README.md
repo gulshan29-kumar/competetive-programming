@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 609 | 31 |
+| 610 | 31 |
 
 ---
 
@@ -33,13 +33,13 @@
 - [graphs](#graphs) (9)
 - [greedy](#greedy) (301)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (162)
+- [implementation](#implementation) (163)
 - [math](#math) (254)
 - [number theory](#number-theory) (58)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (106)
-- [strings](#strings) (57)
+- [strings](#strings) (58)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (12)
 - [two pointers](#two-pointers) (43)
@@ -1035,6 +1035,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1352D | [Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1352/D%20-%20Alice%2C%20Bob%20and%20Candies/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.java) |
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.java) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.java) |
 | 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
@@ -1639,6 +1640,7 @@
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1295C | [Obtain The String](https://codeforces.com/contest/1295/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1295/C%20-%20Obtain%20The%20String/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.java) |
