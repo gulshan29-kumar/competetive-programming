@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 616 | 31 |
+| 617 | 31 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (25)
 - [constructive algorithms](#constructive-algorithms) (119)
-- [data structures](#data-structures) (58)
+- [data structures](#data-structures) (59)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (73)
+- [dp](#dp) (74)
 - [dsu](#dsu) (9)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (22)
@@ -33,8 +33,8 @@
 - [graphs](#graphs) (9)
 - [greedy](#greedy) (304)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (163)
-- [math](#math) (257)
+- [implementation](#implementation) (164)
+- [math](#math) (258)
 - [number theory](#number-theory) (58)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -482,6 +482,7 @@
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.java) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.java) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.java) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.java) |
@@ -567,6 +568,7 @@
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.java) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.java) |
 | 1879C | [Make it Alternating](https://codeforces.com/contest/1879/problem/C) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1879/C%20-%20Make%20it%20Alternating/solution.java) |
@@ -1081,6 +1083,7 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1832C | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1832/C%20-%20Contrast%20Value/solution.java) |
 | 1833A | [Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/A%20-%20Musical%20Puzzle/solution.cpp) |
 | 1846E1 | [Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1846/E1%20-%20Rudolf%20and%20Snowflakes%20(simple%20version)/solution.java) |
@@ -1271,6 +1274,7 @@
 | 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.java) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1833C | [Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/C%20-%20Vlad%20Building%20Beautiful%20Array/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.java) |
