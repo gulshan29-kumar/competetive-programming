@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 618 | 31 |
+| 619 | 31 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [bitmasks](#bitmasks) (30)
 - [brute force](#brute-force) (108)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [combinatorics](#combinatorics) (25)
+- [combinatorics](#combinatorics) (26)
 - [constructive algorithms](#constructive-algorithms) (119)
 - [data structures](#data-structures) (59)
 - [dfs and similar](#dfs-and-similar) (17)
@@ -34,7 +34,7 @@
 - [greedy](#greedy) (304)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (164)
-- [math](#math) (258)
+- [math](#math) (259)
 - [number theory](#number-theory) (58)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (4)
@@ -312,6 +312,7 @@
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.java) |
 | 1674B | [Dictionary](https://codeforces.com/contest/1674/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/B%20-%20Dictionary/solution.cpp) |
 | 1674C | [Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1674/C%20-%20Infinite%20Replacement/solution.cpp) |
+| 1795D | [Triangle Coloring](https://codeforces.com/contest/1795/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1795/D%20-%20Triangle%20Coloring/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.java) |
@@ -1270,6 +1271,7 @@
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.java) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1794C | [Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1794/C%20-%20Scoring%20Subsequences/solution.java) |
+| 1795D | [Triangle Coloring](https://codeforces.com/contest/1795/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1795/D%20-%20Triangle%20Coloring/solution.cpp) |
 | 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.java) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.java) |
