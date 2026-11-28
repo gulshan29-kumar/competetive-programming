@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 617 | 31 |
+| 618 | 31 |
 
 ---
 
@@ -22,22 +22,22 @@
 - [combinatorics](#combinatorics) (25)
 - [constructive algorithms](#constructive-algorithms) (119)
 - [data structures](#data-structures) (59)
-- [dfs and similar](#dfs-and-similar) (16)
+- [dfs and similar](#dfs-and-similar) (17)
 - [divide and conquer](#divide-and-conquer) (2)
 - [dp](#dp) (74)
-- [dsu](#dsu) (9)
+- [dsu](#dsu) (10)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (22)
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (9)
+- [graphs](#graphs) (10)
 - [greedy](#greedy) (304)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (164)
 - [math](#math) (258)
 - [number theory](#number-theory) (58)
 - [schedules](#schedules) (2)
-- [shortest paths](#shortest-paths) (3)
+- [shortest paths](#shortest-paths) (4)
 - [sortings](#sortings) (106)
 - [strings](#strings) (58)
 - [ternary search](#ternary-search) (1)
@@ -534,6 +534,7 @@
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.java) |
 | 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
+| 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 | 2031D | [Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/D%20-%20Penchick%20and%20Desert%20Rabbit/solution.cpp) |
 | 2063C | [Remove Exactly Two](https://codeforces.com/contest/2063/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2063/C%20-%20Remove%20Exactly%20Two/solution.cpp) |
@@ -636,6 +637,7 @@
 | 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1167/C%20-%20News%20Distribution/solution.java) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.java) |
 | 1476D | [Journey](https://codeforces.com/contest/1476/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1476/D%20-%20Journey/solution.cpp) |
+| 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 2031D | [Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2031/D%20-%20Penchick%20and%20Desert%20Rabbit/solution.cpp) |
 | 2033D | [Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2033/D%20-%20Kousuke's%20Assignment/solution.cpp) |
@@ -706,6 +708,7 @@
 | 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.java) |
 | 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1167/C%20-%20News%20Distribution/solution.java) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
+| 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 2063C | [Remove Exactly Two](https://codeforces.com/contest/2063/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2063/C%20-%20Remove%20Exactly%20Two/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.java) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
@@ -1538,6 +1541,7 @@
 |---|---------|------------|----------|
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.java) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.java) |
+| 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1869/B%20-%202D%20Traveling/solution.java) |
 
 ### sortings
