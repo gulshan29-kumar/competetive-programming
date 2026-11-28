@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 615 | 31 |
+| 616 | 31 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [brute force](#brute-force) (108)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (25)
-- [constructive algorithms](#constructive-algorithms) (118)
+- [constructive algorithms](#constructive-algorithms) (119)
 - [data structures](#data-structures) (58)
 - [dfs and similar](#dfs-and-similar) (16)
 - [divide and conquer](#divide-and-conquer) (2)
@@ -31,10 +31,10 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (9)
-- [greedy](#greedy) (303)
+- [greedy](#greedy) (304)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (163)
-- [math](#math) (256)
+- [math](#math) (257)
 - [number theory](#number-theory) (58)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (3)
@@ -369,6 +369,7 @@
 | 1775B | [Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1775/B%20-%20Gardener%20and%20the%20Array/solution.java) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.java) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.java) |
+| 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1831/B%20-%20Array%20merging/solution.java) |
 | 1837D | [Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | 1400 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1837/D%20-%20Bracket%20Coloring/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
@@ -792,6 +793,7 @@
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.java) |
 | 1794C | [Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1794/C%20-%20Scoring%20Subsequences/solution.java) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.java) |
+| 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.java) |
@@ -1262,6 +1264,7 @@
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.java) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 8](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1794C | [Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | 1300 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1794/C%20-%20Scoring%20Subsequences/solution.java) |
+| 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++17 (GCC 7-32)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.java) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [Java 21](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.java) |
 | 1822C | [Bun Lover](https://codeforces.com/contest/1822/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/gulshan29-kumar/competetive-programming/blob/HEAD/1822/C%20-%20Bun%20Lover/solution.cpp) |
